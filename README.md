@@ -17,9 +17,13 @@ Key features:
 
   
 
- ## Project: Industry Financial Analysis (Revenue, Expenses & Growth – 2015)
+ 
 
 ![Industry Financial Dashboard](industry_financial_dashboard.png)
+
+## Project Overview
+
+Industry Financial Analysis (Revenue, Expenses & Growth – 2015)
 
 **Tools Used:** Power BI, Power Query, DAX
 
