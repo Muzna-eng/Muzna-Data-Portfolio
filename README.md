@@ -1,7 +1,15 @@
 # Muzna-Data-Portfolio
 Welcome!
-I’m a business-driven Data Analyst skilled in Power BI, SQL, and Excel, currently pivoting from 8+ years of business and client-facing roles into the world of data.
-I specialize in turning raw data into clean, actionable insights that help businesses make better decisions faster.
+Hi, I'm Muzna Jabeen — a business-driven aspiring Data Analyst transitioning from 8+ years of experience in client-focused sales roles into the world of analytics.
+
+I recently completed a Business Intelligence bootcamp and built multiple Power BI dashboards using SQL, DAX, Power Query, and clean data modeling techniques.
+
+I specialize in turning raw data into clear, visual stories that help businesses make better decisions faster.
+
+Tools: Power BI, SQL, Excel, DAX, Power Query
+Focus Areas: Dashboard Design, Data Cleaning, Business Insights, Executive Reporting
+
+Currently open to remote or hybrid opportunities in Data Analyst or Business Intelligence Analyst roles.
 ![Sales Dashboard](sales_dashboard_q4.png)
 
 ## Project Overview
