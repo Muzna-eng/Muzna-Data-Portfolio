@@ -14,3 +14,8 @@ Key features:
 - Sales performance by salesperson
 - Clean branded theme and layout designed for executive presentation
 - Skills used: Power Query, DAX, Data Modeling, Visualization Design
+
+## Contact
+
+📧 Email: [muznaj81@gmail.com](mailto:muznaj81@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/muzna-j](https://linkedin.com/in/muzna-j)
