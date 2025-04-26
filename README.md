@@ -15,7 +15,9 @@ Key features:
 - Clean branded theme and layout designed for executive presentation
 - Skills used: Power Query, DAX, Data Modeling, Visualization Design
 
-- ## Project: Industry Financial Analysis (Revenue, Expenses & Growth – 2015)
+  
+
+ ## Project: Industry Financial Analysis (Revenue, Expenses & Growth – 2015)
 
 ![Industry Financial Dashboard](industry_financial_dashboard.png)
 
